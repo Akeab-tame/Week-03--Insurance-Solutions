@@ -1,0 +1,6 @@
+[core]
+    remote = gdrive_remote
+['remote "localstorage"']
+    url = C:\Users\Hello\Desktop\Html Tutorial\Document\KAIM Courses\Week-3\Week-3 DVC\local_storage
+['remote "localstorage"']
+    url = gdrive://1eg1bueWE95BKjAGde4-aLjiWQNffmsFF
