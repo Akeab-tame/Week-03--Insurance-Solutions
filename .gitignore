@@ -2,3 +2,4 @@ venv
 data
 DVC/.venv
 DVC/DVC_Tutorial/notebooks
+xgboost-2.1.1-py3-none-win_amd64.whl
