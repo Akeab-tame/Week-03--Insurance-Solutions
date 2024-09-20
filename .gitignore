@@ -1,2 +1,4 @@
 venv
 data
+DVC/.venv
+DVC/DVC_Tutorial/notebooks
